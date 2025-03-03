@@ -139,11 +139,13 @@ body #app .footer {
     box-shadow: none;
 }
 
+/* Item hastag color */
 body #main-section .tag {
     color: #fff;
-    background-color: #ffb70f;
+    background-color: #22a699;
 }
 
+/* Header category icon color */
 body #main-section h2 i {
-    color: #ffb70f;
+    color: #22a699;
 }
